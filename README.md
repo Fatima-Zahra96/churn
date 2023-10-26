@@ -1,13 +1,13 @@
 # churn
 Telcom customers churn
 
-# **DS &amp; ML Quiz Assessment**
+# **INFORMATIONS**
 
 **Contents**
 
-1- An excel spreadsheed `Telco-Customer-Churn.xlsx` with the input dataset.
+1- An excel spreadsheed `Customer.xlsx` with the input dataset.
 
-2- A jupyter notebbok `Telco-Customer-Churn-Quiz.ipynb` with predefined code and instructions 
+2- A jupyter notebbok `Customer_Churn_Telco.ipynb` with predefined code and instructions 
 
 **Instructions**
 
